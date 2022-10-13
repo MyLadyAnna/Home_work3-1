@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\bin\Debug\net6.0\02_Numb_max.exe
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\bin\Debug\net6.0\02_Numb_max.deps.json
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\bin\Debug\net6.0\02_Numb_max.runtimeconfig.json
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\bin\Debug\net6.0\02_Numb_max.dll
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\bin\Debug\net6.0\02_Numb_max.pdb
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\obj\Debug\net6.0\02_Numb_max.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\obj\Debug\net6.0\02_Numb_max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\obj\Debug\net6.0\02_Numb_max.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\obj\Debug\net6.0\02_Numb_max.AssemblyInfo.cs
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\obj\Debug\net6.0\02_Numb_max.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\obj\Debug\net6.0\02_Numb_max.dll
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\obj\Debug\net6.0\refint\02_Numb_max.dll
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\obj\Debug\net6.0\02_Numb_max.pdb
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\obj\Debug\net6.0\02_Numb_max.genruntimeconfig.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\02_Numb_max\obj\Debug\net6.0\ref\02_Numb_max.dll
