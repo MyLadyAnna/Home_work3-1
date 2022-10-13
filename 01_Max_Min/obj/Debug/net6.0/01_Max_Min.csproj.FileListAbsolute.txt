@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\bin\Debug\net6.0\01_Max_Min.exe
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\bin\Debug\net6.0\01_Max_Min.deps.json
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\bin\Debug\net6.0\01_Max_Min.runtimeconfig.json
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\bin\Debug\net6.0\01_Max_Min.dll
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\bin\Debug\net6.0\01_Max_Min.pdb
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\obj\Debug\net6.0\01_Max_Min.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\obj\Debug\net6.0\01_Max_Min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\obj\Debug\net6.0\01_Max_Min.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\obj\Debug\net6.0\01_Max_Min.AssemblyInfo.cs
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\obj\Debug\net6.0\01_Max_Min.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\obj\Debug\net6.0\01_Max_Min.dll
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\obj\Debug\net6.0\refint\01_Max_Min.dll
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\obj\Debug\net6.0\01_Max_Min.pdb
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\obj\Debug\net6.0\01_Max_Min.genruntimeconfig.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work1\01_Max_Min\obj\Debug\net6.0\ref\01_Max_Min.dll
